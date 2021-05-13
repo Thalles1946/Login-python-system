@@ -1,20 +1,3 @@
-#n1=int(input("digite o numero 1:"))
-#n2=int(input("digite o numero 2:"))
-#n3=int(input("digite o numero 3:"))
-
-
-
-
-#......0..1..2
-#lista=[n1,n2,n3]
-#listaanimais=["cachorro","gato","elefante"]
-#print (lista [1])
-#for x in lista:
-#    print (x)
-
-
-
-####################
 nd=0
 sd=0
 print("bem vindo ao cofre, se voce não tiver login, responda 'não' a pergunta abaixo")
